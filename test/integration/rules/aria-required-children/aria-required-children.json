@@ -4,7 +4,8 @@
 	"violations": [
 		["#fail1"],
 		["#fail2"],
-		["#fail3"]
+		["#fail3"],
+        ["#menubarNoItem"]
 	],
 	"passes": [
 		["#pass1"],
@@ -14,6 +15,7 @@
 		["#pass5"],
 		["#pass6"],
 		["#pass7"],
-		["#pass8"]
+		["#pass8"],
+        ["#menubarItem"]
 	]
 }
